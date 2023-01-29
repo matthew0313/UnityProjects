@@ -1,0 +1,250 @@
+[api-updater (non-obsolete-error-filter)] 2022-10-09 AM 11:28:47 : Starting /Users/evena/Desktop/unity/2020.3.6f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 300.803ms
+moved types parse time: 81ms
+candidates parse time : 1ms
+C# parse time         : 434ms
+candidates check time : 53ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022-10-16 AM 11:59:51 : Starting /Users/evena/Desktop/unity/2020.3.6f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 260.892ms
+moved types parse time: 82ms
+candidates parse time : 1ms
+C# parse time         : 378ms
+candidates check time : 37ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022-10-16 PM 12:05:27 : Starting /Users/evena/Desktop/unity/2020.3.6f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 237.752ms
+moved types parse time: 65ms
+candidates parse time : 1ms
+C# parse time         : 412ms
+candidates check time : 54ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022-10-23 AM 10:44:29 : Starting /Users/evena/Desktop/unity/2020.3.6f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 295.988ms
+moved types parse time: 87ms
+candidates parse time : 3ms
+C# parse time         : 508ms
+candidates check time : 58ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 2022-10-23 AM 11:03:42 : Starting /Users/evena/Desktop/unity/2020.3.6f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 212.701ms
+moved types parse time: 89ms
+candidates parse time : 1ms
+C# parse time         : 555ms
+candidates check time : 87ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 2022-10-23 AM 11:05:02 : Starting /Users/evena/Desktop/unity/2020.3.6f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 233.911ms
+moved types parse time: 76ms
+candidates parse time : 1ms
+C# parse time         : 827ms
+candidates check time : 87ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 2022-10-30 AM 10:53:13 : Starting /Users/evena/Desktop/unity/2020.3.6f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 397.739ms
+moved types parse time: 75ms
+candidates parse time : 1ms
+C# parse time         : 443ms
+candidates check time : 46ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 2022-10-30 PM 12:02:33 : Starting /Users/evena/Desktop/unity/2020.3.6f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 256.06ms
+moved types parse time: 71ms
+candidates parse time : 1ms
+C# parse time         : 441ms
+candidates check time : 58ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 2022-11-20 AM 11:29:21 : Starting /Users/evena/Desktop/unity/2020.3.6f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 276.553ms
+moved types parse time: 85ms
+candidates parse time : 1ms
+C# parse time         : 454ms
+candidates check time : 58ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 2022-11-20 AM 11:41:01 : Starting /Users/evena/Desktop/unity/2020.3.6f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 228.956ms
+moved types parse time: 70ms
+candidates parse time : 1ms
+C# parse time         : 358ms
+candidates check time : 47ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 2022-11-20 AM 11:41:54 : Starting /Users/evena/Desktop/unity/2020.3.6f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 62.093ms
+moved types parse time: 54ms
+candidates parse time : 2ms
+C# parse time         : 232ms
+candidates check time : 47ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022-11-20 AM 11:47:21 : Starting /Users/evena/Desktop/unity/2020.3.6f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 216.038ms
+moved types parse time: 72ms
+candidates parse time : 1ms
+C# parse time         : 331ms
+candidates check time : 45ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 2022-11-27 AM 11:05:05 : Starting /Users/evena/Desktop/unity/2020.3.6f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 264.978ms
+moved types parse time: 73ms
+candidates parse time : 1ms
+C# parse time         : 360ms
+candidates check time : 54ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022-11-27 AM 11:05:13 : Starting /Users/evena/Desktop/unity/2020.3.6f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 66.499ms
+moved types parse time: 51ms
+candidates parse time : 1ms
+C# parse time         : 218ms
+candidates check time : 44ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022-12-04 AM 10:41:20 : Starting /Users/evena/Desktop/unity/2020.3.6f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 235.577ms
+moved types parse time: 103ms
+candidates parse time : 4ms
+C# parse time         : 519ms
+candidates check time : 83ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 2022-12-04 AM 11:37:37 : Starting /Users/evena/Desktop/unity/2020.3.6f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 261.808ms
+moved types parse time: 85ms
+candidates parse time : 1ms
+C# parse time         : 487ms
+candidates check time : 58ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 2022-12-04 AM 11:38:01 : Starting /Users/evena/Desktop/unity/2020.3.6f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 181.98ms
+moved types parse time: 65ms
+candidates parse time : 1ms
+C# parse time         : 353ms
+candidates check time : 45ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022-12-11 AM 11:54:48 : Starting /Users/evena/Desktop/unity/2020.3.6f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 293.505ms
+moved types parse time: 68ms
+candidates parse time : 1ms
+C# parse time         : 356ms
+candidates check time : 62ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 2022-12-18 AM 11:48:21 : Starting /Users/evena/Desktop/unity/2020.3.6f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 260.079ms
+moved types parse time: 83ms
+candidates parse time : 1ms
+C# parse time         : 409ms
+candidates check time : 60ms
+console write time    : 3ms
+
+[api-updater (non-obsolete-error-filter)] 2022-12-18 AM 11:48:38 : Starting /Users/evena/Desktop/unity/2020.3.6f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 87.234ms
+moved types parse time: 62ms
+candidates parse time : 2ms
+C# parse time         : 279ms
+candidates check time : 62ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022-12-18 AM 11:48:58 : Starting /Users/evena/Desktop/unity/2020.3.6f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 71.805ms
+moved types parse time: 60ms
+candidates parse time : 1ms
+C# parse time         : 249ms
+candidates check time : 50ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022-12-18 AM 11:49:03 : Starting /Users/evena/Desktop/unity/2020.3.6f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 61.501ms
+moved types parse time: 54ms
+candidates parse time : 1ms
+C# parse time         : 247ms
+candidates check time : 49ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2023-01-08 AM 11:13:43 : Starting /Users/evena/Desktop/unity/2020.3.6f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 440.311ms
+moved types parse time: 80ms
+candidates parse time : 1ms
+C# parse time         : 373ms
+candidates check time : 40ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 2023-01-08 AM 11:32:32 : Starting /Users/evena/Desktop/unity/2020.3.6f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 229.986ms
+moved types parse time: 81ms
+candidates parse time : 1ms
+C# parse time         : 384ms
+candidates check time : 44ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 2023-01-08 AM 11:38:11 : Starting /Users/evena/Desktop/unity/2020.3.6f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 221.397ms
+moved types parse time: 77ms
+candidates parse time : 1ms
+C# parse time         : 388ms
+candidates check time : 49ms
+console write time    : 1ms
+
